@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+hr { background:url('../images/separator-dots.png') repeat-x left center; height:20px; margin:0px 10px 0px 10px; border:none;}
+p			{ margin:0px 20px 10px 20px; font:13px/18px Arial, Helvetica, sans-serif;}
+
+p a {
+	color:#069;	
+}
+
+strong { color:#000; }
+
+/* @group Plastic */
+#jqt ul.normal {
+    color: none;
+    border: none;
+    font: 13px "Helvetica Neue", Helvetica;
+    padding: 0;
+    margin: 15px 10px 17px 50px;
+}
+
+#jqt ul.normal li {
+    color: #000;
+    border-top: none;
+    border-bottom: none;
+	list-style:outside !important;
+    padding: 0px 10px 0px 0px;
+    background-image: none;
+    overflow: visible;
+}
+
+#jqt ul.normal li:nth-child(odd) {
+    background-color: none;
+}
+
+/* Team Images */
+.empLink {
+	width:139px;
+	height:209px;
+	-moz-box-shadow: 3px 3px 5px #000;
+	-webkit-box-shadow: 3px 5px 3px #000;
+	box-shadow: 3px 3px 5px #000;
+	margin:20px auto 40px auto;
+}
+
+.empLinkContent {
+	width:139px;
+	height:209px;
+	position:absolute;	
+}
+
+.empLinkBack {
+	position:absolute;
+	z-index:5;
+}
+
+.empLinkText {
+	width:129px;
+	height:30px;
+	background:url(../images/imgLinkText.png) 0 0 repeat;
+	position:absolute;
+	z-index:10;
+	bottom:0px;	
+	font:13px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#fff;
+	line-height:30px;
+	padding:0px 0px 0px 10px;
+	text-align:center;
+}
+
+.empLinkPos {
+	width:129px;
+	height:30px;
+	position:absolute;
+	z-index:10;
+	bottom:-35px;	
+	font:italic 11px Georgia, "Times New Roman", Times, serif;
+	color:#fff;
+	padding:0px 0px 0px 10px;
+	text-align:center;
+}
+
+video {
+	margin:0px 20px 0px 20px;	
+}
+
+#ba img {
+	margin:20px auto 20px auto;
+	display:block;	
+}

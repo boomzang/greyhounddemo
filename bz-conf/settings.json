@@ -1,7 +1,7 @@
 {
   "author":      "Chris Jacobs",
-  "description": "Demo for Greyhound.",
-  "name":        "Greyhound Demo",
-  "url":         "greyhound/",
-  "repo_url":    "boomzang/greyhound"
+  "description": "Demo for Disney.",
+  "name":        "Disney Demo",
+  "url":         "disney/",
+  "repo_url":    "boomzang/disney"
 }
