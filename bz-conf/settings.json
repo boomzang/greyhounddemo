@@ -1,0 +1,9 @@
+{
+  "author":      "Chris Jacobs",
+  "description": "Demo for greyhound.",
+  "icon":        "bz-conf/icon.jpg",
+  "name":        "greyhound Demo",
+  "url":         "greyhound/",
+  "repo_url":    "boomzang/greyhound"
+}
+
